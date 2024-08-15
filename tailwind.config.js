@@ -1,12 +1,4 @@
 /** @type {import('tailwindcss').Config} */
-/*
-- Almost White: hsl(0, 0%, 98%)
-- Medium Gray: hsl(0, 0%, 41%)
-- Almost Black: hsl(0, 0%, 8%)
-- Family: [Epilogue](https://fonts.google.com/specimen/Epilogue)
-- Weights: 500, 700
-
-*/
 export default {
   content: [
     "./index.html",
